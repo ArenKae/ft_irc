@@ -10,7 +10,8 @@ Before Discord, Slack, or modern instant messaging, there was IRC — one of the
 At its core, an IRC server acts as the backbone of this communication network. It manages connections, routes messages between users, and ensures that everyone in the right channel receives the right messages. Though IRC may seem outdated, its influence is still visible today in modern chat applications and online communities.
 
 The ft_irc project is a lightweight C++ implementation of an IRC server, built from scratch to better understand how real-time messaging works. It allows us to better understand the concept of sockets that is at the foundation of online communication as we know it today.
-
+\
+### 💻 This program was developed on and for Ubuntu 24.04.2 LTS.
 
 <p align="center">
   <img src="https://github.com/ArenKae/ArenKae/blob/main/screens/IRC.PNG" alt="IRC demo">
@@ -23,7 +24,6 @@ Finished 01/07/2024.
 Grade: 100/100
 
 ## Usage
-### 💻 This program was developed on and for Ubuntu 24.04.2 LTS.
 
 Clone this repository and ```cd``` into it. Use ```make``` to compile, then launch the server with :
 ```
