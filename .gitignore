@@ -1,0 +1,34 @@
+## Editor
+.vscode/*
+.vscode/
+*~
+\#*\#
+
+# System files
+.DS_Store
+desktop.ini
+settings.json
+*.swp
+
+# Object files
+obj/
+*.o
+
+# Executables
+*.a
+*.out
+ircserv
+
+
+# MEMO : delete folder from remote :
+# git rm -r --cached folder_name
+
+# SYNC LOCAL BRANCH FROM REMOTE :
+# git fetch
+# git merge origin/main
+
+# Exctract .tar archive :
+# tar -xf foo.tar
+
+# Create .tar archive :
+# tar -cf archive_name.tar file1 folder_1/
