@@ -1,7 +1,7 @@
 # ft_irc
 
 <p align="center">
-  <img src="https://github.com/ArenKae/acosi/blob/main/42%20badges/ft_irce.png" alt="ft_irc 42 project badge"/>
+  <img src="https://github.com/ArenKae/ArenKae/blob/main/42%20badges/ft_irce.png" alt="ft_irc 42 project badge"/>
 </p>
 
 ## A small Internet Relay Chat (IRC) server made in C++.
@@ -13,7 +13,7 @@ The ft_irc project is a lightweight C++ implementation of an IRC server, built f
 
 
 <p align="center">
-  <img src="https://github.com/ArenKae/42-badges/blob/main/screens/IRC.PNG" alt="IRC demo">
+  <img src="https://github.com/ArenKae/ArenKae/blob/main/screens/IRC.PNG" alt="IRC demo">
 </p>
 
 
