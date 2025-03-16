@@ -23,7 +23,7 @@ Finished 01/07/2024.
 Grade: 100/100
 
 ## Usage
-💻 This program was developed on and for Ubuntu 24.04.2 LTS.
+### 💻 This program was developed on and for Ubuntu 24.04.2 LTS.
 
 Clone this repository and ```cd``` into it. Use ```make``` to compile, then launch the server with :
 ```
