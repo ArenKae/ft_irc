@@ -29,7 +29,7 @@ Clone this repository and ```cd``` into it. Use ```make``` to compile, then laun
 ./ircserv <port> <password>
 ```
 ### Connecting to the Server Using IRSSI
-This project was developed for the [IRSSI](https://irssi.org/) client version 1.2.3. You can install it using :
+This project was developed for the [IRSSI](https://irssi.org/) client (version 1.2.3). You can install it using :
 ```
 sudo apt install irssi -y
 ```
