@@ -87,4 +87,4 @@ USER <username> <hostname(same as username)> <servername(localhost)> :<realname>
 
 ---
 
-This project was made by acosi in collaboration with keschouf
+This project was made in collaboration with keschouf.
