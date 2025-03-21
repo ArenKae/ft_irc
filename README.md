@@ -85,7 +85,7 @@ USER <username> <hostname(same as username)> <servername(localhost)> :<realname>
 - `WHOIS <nickname>`: Returns informations about a particular user.
 - `TOPIC <channel_name> <message>`: sets message as the channel topic.
 - `USER <username> <hostname> <servername> :<realname>`: sets a new user's information during registration.
+</br>
 
----
-
-This project was made in collaboration with keschouf.
+> [!NOTE]
+> This project was made in collaboration with keschouf.
