@@ -18,7 +18,7 @@ The ft_irc project is a lightweight C++ implementation of an IRC server, built f
 ### 💻 This program was developed on and for Ubuntu 24.04.2 LTS.
 
 ## Status
-✅ Completed on: 01/07/2024
+✅ Completed on: 07/01/2025
 </br>
 🏆 Grade: 100/100
 
