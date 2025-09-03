@@ -47,7 +47,7 @@ You can then join or create a channel to start chatting using :
 > [!TIP]
 > To leave the IRSSI client, use ```/quit``` or ```/exit```.
 
-### Connecting to the Server Using NetCat
+### Connecting to the server using NetCat
 
 Alternatively, connect to the server using `nc` or `netcat` :
 ```
